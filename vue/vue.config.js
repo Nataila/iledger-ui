@@ -1,4 +1,5 @@
 module.exports = {
   outputDir: '../www/',
-  lintOnSave: false
+  lintOnSave: false,
+  publicPath: '.'
 };
